@@ -1,1 +1,1 @@
-https://github.com/YaBoiTooFat6/audio-player.git
+https://yaboitoofat6.github.io/audio-player/
